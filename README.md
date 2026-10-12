@@ -86,17 +86,22 @@ const shahriar = {
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 <div align="center">
 
+<a href="https://github.com/Shahriar-Kabir-IT/qr-based-machine-tracking-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahriar-Kabir-IT&repo=qr-based-machine-tracking-system&theme=tokyonight&hide_border=true" />
+</a>
 <a href="https://github.com/Shahriar-Kabir-IT/Workstudy-Process-Automation">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shahriar-Kabir-IT&repo=Workstudy-Process-Automation&theme=tokyonight&hide_border=true" />
 </a>
 
-🧵 **Work Study Process Automation** — a multi-factory web platform digitizing the garment Industrial Engineering workflow (Operation Breakdown → Line Layout → Cycle Time → Skill Matrix) with auto-calculation, line balancing, and role-based approvals.
-
 </div>
+
+📱 **QR-Based Machine Tracking System** — QR-driven machine inventory, transfer, maintenance & downtime tracking for factory-floor operations (Android app + web portal).
+
+🧵 **Work Study Process Automation** — a multi-factory web platform digitizing the garment Industrial Engineering workflow (Operation Breakdown → Line Layout → Cycle Time → Skill Matrix) with auto-calculation, line balancing, and role-based approvals.
 
 ---
 
