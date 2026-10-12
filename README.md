@@ -73,12 +73,6 @@ const shahriar: Developer = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahriar-Kabir-IT&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shahriar-Kabir-IT&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shahriar-Kabir-IT&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
 </div>
 
 <!-- ===================== PROJECTS ===================== -->
