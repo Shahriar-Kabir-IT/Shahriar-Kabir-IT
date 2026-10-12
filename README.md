@@ -84,20 +84,53 @@ const shahriar: Developer = {
 <!-- ===================== PROJECTS ===================== -->
 ## 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Shahriar-Kabir-IT/qr-based-machine-tracking-system">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahriar-Kabir-IT&repo=qr-based-machine-tracking-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
-</a>
-<a href="https://github.com/Shahriar-Kabir-IT/Workstudy-Process-Automation">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahriar-Kabir-IT&repo=Workstudy-Process-Automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
-</a>
+### 🧵 Work Study Process Automation
 
-</div>
+A **multi-factory web platform** that digitizes the garment Industrial Engineering (Work Study) workflow end-to-end — from order intake and **Operation Breakdown (SMV)** to **automatic line balancing**, **cycle-time studies** with UCL/LCL control limits, and the **operator skill matrix**.
 
-> 📱 **QR-Based Machine Tracking System** — QR-driven machine inventory, transfer, maintenance & downtime tracking for factory-floor operations (Android app + web portal).
->
-> 🧵 **Work Study Process Automation** — a multi-factory platform digitizing the garment Industrial Engineering workflow with auto-calculation, line balancing, and role-based approvals.
+**Highlights**
+- 🏭 Multi-factory, role-based access with approval gates
+- ⚙️ Auto-calculated SMV, pitch time, targets & efficiency
+- 📐 Line balancing + live charts; OB versioning
+- 🔌 Integration-ready API for other apps
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<a href="https://github.com/Shahriar-Kabir-IT/Workstudy-Process-Automation"><img src="https://img.shields.io/badge/View%20Repository-36BCF7?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 QR-Based Machine Tracking System
+
+A **QR-driven system** for factory-floor machine operations — tracking **inventory, transfers, maintenance & downtime** in real time across an **Android app + web portal**.
+
+**Highlights**
+- 📷 QR scan for instant machine identification
+- 🔄 Transfer, maintenance & downtime logging
+- 📊 Web portal for assets & reporting
+- 📲 Companion Android application
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+</p>
+
+<a href="https://github.com/Shahriar-Kabir-IT/qr-based-machine-tracking-system"><img src="https://img.shields.io/badge/View%20Repository-36BCF7?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
 
 <!-- ===================== CONNECT ===================== -->
 ## 🌐 Let's Connect
