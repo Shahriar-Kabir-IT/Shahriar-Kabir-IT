@@ -8,6 +8,7 @@
 
 <p>
   <a href="https://arko.it.com"><img src="https://img.shields.io/badge/Website-arko.it.com-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-shahriar-kabir-615287301/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:support@arko.it.com"><img src="https://img.shields.io/badge/Email-support@arko.it.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Shahriar-Kabir-IT&style=for-the-badge&color=36BCF7&label=Profile+Views" />
 </p>
@@ -30,8 +31,8 @@ const shahriar = {
 
 - 🚀 I build **end-to-end web applications** — from React frontends to Node/NestJS APIs and PostgreSQL databases.
 - ⚙️ I love **automating workflows** and shipping with solid **DevOps** practices (Docker, CI/CD, Linux).
-- 🏭 Currently building a **multi-factory Work Study automation platform** for garment manufacturing.
-- 🌐 Find me at **[arko.it.com](https://arko.it.com)** · 📫 **support@arko.it.com**
+- 🏭 Currently building a **multi-factory Work Study automation platform** at **Ananta Companies Ltd**.
+- 🌐 Find me at **[arko.it.com](https://arko.it.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/md-shahriar-kabir-615287301/)** · 📫 **support@arko.it.com**
 
 ---
 
@@ -104,6 +105,7 @@ const shahriar = {
 <div align="center">
 
 <a href="https://arko.it.com"><img src="https://img.shields.io/badge/Portfolio-arko.it.com-36BCF7?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-shahriar-kabir-615287301/"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Shahriar%20Kabir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:support@arko.it.com"><img src="https://img.shields.io/badge/Email-support@arko.it.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 <a href="https://github.com/Shahriar-Kabir-IT"><img src="https://img.shields.io/badge/GitHub-Shahriar--Kabir--IT-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
