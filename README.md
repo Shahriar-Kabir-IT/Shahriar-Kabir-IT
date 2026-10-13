@@ -66,7 +66,7 @@ const shahriar: Developer = {
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Shahriar-Kabir-IT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Shahriar-Kabir-IT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Kabir-IT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" />
 
 <br/>
